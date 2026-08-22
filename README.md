@@ -1,0 +1,5 @@
+- Building this RAG to learn and implement 
+- Until now i have built a skelton for spring boot
+- added a APi to bring in the pdf and then parse that document to extract text
+- created the logic for chunking the pdf text
+- added the api to get the said chunked data 
