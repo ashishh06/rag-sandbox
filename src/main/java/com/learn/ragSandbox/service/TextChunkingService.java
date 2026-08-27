@@ -14,8 +14,8 @@ public class TextChunkingService {
 
     private static final Logger log = LoggerFactory.getLogger(TextChunkingService.class);
 
-    private static final int CHUNK_SIZE = 200;
-    private static final int CHUNK_OVERLAP = 50;
+    private static final int CHUNK_SIZE = 500;
+    private static final int CHUNK_OVERLAP = 150;
     private static final int BOUNDARY_SEARCH_WINDOW = 20;
 
     private static final String PARAGRAPH_BREAK = "\n\n";
